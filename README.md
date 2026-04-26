@@ -1,2 +1,0 @@
-# .github
-Organization responsible for maintaining all repositories related to the Racha App, including frontend, backend, API collections, and other supporting resources. It centralizes the development, version control, and collaboration efforts for the project, ensuring consistency across services, streamlined workflows, and efficient integration between different components. The organization also serves as a hub for documentation, environment configurations, and shared tools, supporting scalability and continuous improvement of the application ecosystem.
